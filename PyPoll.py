@@ -8,9 +8,10 @@ import os
 file_to_load = os.path.join("Resources", "election_results.csv")
 # Assign a variable to save the file to a path.
 file_to_save = os.path.join("Resources", "election_analysis.txt")
-# Initialize a total vote counter.
 
+# Initialize a total vote counter.
 total_votes = 0
+
 # Candidate options and candidate votes.
 candidate_options = []
 candidate_votes = {}
