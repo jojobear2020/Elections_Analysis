@@ -7,7 +7,6 @@ import os
 
 # Add a variable to load a file from a path.
 file_to_load = os.path.join("Resources","election_results.csv")
-#wrestling_csv = os.path.join("Resources","WWE-Data-2016.csv")
 
 # Add a variable to save the file to a path.
 file_to_save = os.path.join("Analysis", "election_results.txt")
