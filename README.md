@@ -1,5 +1,6 @@
 # Elections Analysis
 
+
 ## Overview of Election Audit
 We are tasked with helping Colorado Board of Elections (CBE) to perform and provide the election audit results to the election commission. In addition to the data that is known at the moment of the request, we are also tasked with providing additional information by county.
 
@@ -32,6 +33,7 @@ By analyzing the available data, we were able to verify and present to CBE a qui
 https://github.com/jojobear2020/Elections_Analysis/blob/master/Election_results.PNG
 
 
+
 ## Election-Audit Summary
 
 While information we had is very telling, it is not enough to analyze and provide a complete voters’ analysis. We can provide a few suggestions how to make analysis even more useful.
@@ -39,6 +41,7 @@ While information we had is very telling, it is not enough to analyze and provid
 1.	*Using only the data we have*
 
 •	To further understand the voters’ trends, we can also show voters preference for each candidate by each county (i.e. even though Denver county had the highest turnout, this county potentially could be the most polarized when it comes voting). 
+
 2.	*Adding more data*
 
 •	While county is one of the key metrics/indicators, it is essential to know voters’ demographics as well
