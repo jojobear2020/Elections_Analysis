@@ -46,6 +46,8 @@ While information we had is very telling, it is not enough to analyze and provid
 
 •	While county is one of the key metrics/indicators, it is essential to know voters’ demographics as well.
 
-# Congratulations, Dian DeGette!
+
+
+# Congratulations, Diana DeGette!
 
 
