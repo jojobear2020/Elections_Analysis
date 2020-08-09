@@ -44,20 +44,19 @@ https://github.com/jojobear2020/Elections_Analysis/blob/master/Election_results.
 
 While information we had is very telling, it is not enough to analyze and provide a complete voters’ analysis. We can provide a few suggestions how to make analysis even more useful and informational.
 
-1.	***If using only the data we have***
+* ***If using only the data we have***
 
-•	To further understand the voters’ trends, we can also show voters preference for each candidate by each county (i.e. even though Denver county had the highest turnout, this county potentially could be the most polarized when it comes to voting). 
+To further understand the voters’ trends, we can also show voters preference for each candidate by each county (i.e. even though Denver county had the highest turnout, this county potentially could be the most polarized when it comes to voting). 
 
-2.	***If adding more data metrics***
+* ***If adding more data metrics***
 
-•	While county is one of the key metrics/indicators, it is essential to know voters’ demographics as well.
-* By adding more data metrics, we can analyze voters preferences and potentially needs (i.e. reform education system).
+While county is one of the key metrics/indicators, it is essential to know voters’ demographics as well. By adding more data metrics, we can analyze voters preferences and potentially needs (i.e. reform education system).
 
 
 ## Conclusion
 
-We analyzed tand onfirmed the winner of the elections. The data we had was sufficient to so so, however, moving forwrad we suggest to collect more information to see a bigger 
-picture/voters' trend.
+We analyzed and confirmed the winner of the elections. The data we had was sufficient to so, however, moving forward we suggest to collect more information to see a bigger 
+picture in the voters' trend.
 
 # Congratulations, Diana DeGette!
 
