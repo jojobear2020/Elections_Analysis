@@ -50,7 +50,7 @@ To further understand the voters’ trends, we can also show voters preference f
 
 * ***If adding more data metrics***
 
-While county is one of the key metrics/indicators, it is essential to know voters’ demographics as well. By adding more data metrics, we can analyze voters preferences and potentially needs (i.e. reform education system).
+While county is one of the key metrics/indicators, it is essential to know voters’ demographics as well. By adding more data metrics, we can analyze voters' preferences and potentially needs (i.e. reform education system).
 
 
 ## Conclusion
