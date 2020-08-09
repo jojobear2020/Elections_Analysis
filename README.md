@@ -10,6 +10,7 @@ We verified that total votes count matches what CBE had as well. The final vote 
 https://github.com/jojobear2020/Elections_Analysis/blob/master/Total_votes_all.PNG
 
 2.	*Analysis by County*
+
 Based on the provided information, we can analyze and understand voting trend by county. This shows not only who won, but potentially what area/location played the key role in this. The final results show that Denver County had the highest turnout with 82.8% electorate showing up.
 
 It is also shown in the image/link below:
@@ -22,7 +23,8 @@ Similar to the county data, we are able to show information for each running can
 
 https://github.com/jojobear2020/Elections_Analysis/blob/master/Elections_results_candidate_summary.PNG
 
-4.	Final Results
+4.	*Final Results*
+
 By analyzing the available data, we were able to verify and present to CBE a quick summary of the most recent congressional elections. The script we have produces final output in a short summary that presents the most important based on the available data key metrics. We see that Diana DeGette won by receiving 272892 votes (73.8% of the overall voters).
 
 https://github.com/jojobear2020/Elections_Analysis/blob/master/Election_results.PNG
