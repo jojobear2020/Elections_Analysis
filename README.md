@@ -15,7 +15,7 @@ We were tasked with helping Colorado Board of Elections (CBE) to perform and pro
 1.	***Total Voted***
 
 We verified that total votes count matches what CBE had as well. The final vote count was at 369711.
-https://github.com/jojobear2020/Elections_Analysis/blob/master/Total_votes_all.PNG
+![](https://github.com/jojobear2020/Elections_Analysis/blob/master/Total_votes_all.PNG)
 
 2.	***Analysis by County***
 
@@ -23,19 +23,19 @@ Based on the provided information, we can analyze and understand voting trend by
 
 It is also shown in the image/link below:
 
-https://github.com/jojobear2020/Elections_Analysis/blob/master/Elections_results_county_summary.PNG
+![](https://github.com/jojobear2020/Elections_Analysis/blob/master/Elections_results_county_summary.PNG)
 
 3.	***Analysis by Candidate***
 
 Similar to the county data, we are able to show information for each running candidate. This information is the most important as it shows not only the winner, but also results for all other candidates. Based on the results, Raymon Anthony Doane had the least votes with only 3.1%.
 
-https://github.com/jojobear2020/Elections_Analysis/blob/master/Elections_results_candidate_summary.PNG
+![](https://github.com/jojobear2020/Elections_Analysis/blob/master/Elections_results_candidate_summary.PNG)
 
 4.	***Final Results***
 
 By analyzing the available data, we were able to verify and present to CBE a quick summary of the most recent congressional elections. The script we have produces final output in a short summary that presents the most important key metrics based on the available data. We see that Diana DeGette won by receiving 272892 votes (73.8% of the overall voters).
 
-https://github.com/jojobear2020/Elections_Analysis/blob/master/Election_results.PNG
+![](https://github.com/jojobear2020/Elections_Analysis/blob/master/Election_results.PNG)
 
 
 
