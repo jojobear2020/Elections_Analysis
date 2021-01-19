@@ -15,6 +15,7 @@ We were tasked with helping Colorado Board of Elections (CBE) to perform and pro
 1.	***Total Voted***
 
 We verified that total votes count matches what CBE had as well. The final vote count was at 369711.
+
 ![](https://github.com/jojobear2020/Elections_Analysis/blob/master/Total_votes_all.PNG)
 
 2.	***Analysis by County***
